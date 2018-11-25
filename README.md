@@ -1,4 +1,4 @@
-# Lab 07 exercise
+# Lab 08 CSS transition
 
 A simple CSS animation for a common visual effect, using the `transition` property.
 
